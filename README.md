@@ -1,1 +1,3 @@
-# IT - 222
+IT - 222
+======
+Advanced Javascript Course at Seattle Central College
